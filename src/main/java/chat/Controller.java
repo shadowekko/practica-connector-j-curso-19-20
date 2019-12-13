@@ -14,11 +14,11 @@ import java.util.List;
 public class Controller {
 
     // @TODO: Sustituya xxxx por los parámetros de su conexión
-    private final String DB_SERVER = "xxxx";
-    private final int DB_PORT = xxxx;
-    private final String DB_NAME = "xxxx";
-    private final String DB_USER = "xxxx";
-    private final String DB_PASS = "xxxx";
+    private final String DB_SERVER = "practicas";
+    private final int DB_PORT = 3306;
+    private final String DB_NAME = "bhcwv8kdmdkrydy512sa";
+    private final String DB_USER = "uw64dxldgzrc0fra";
+    private final String DB_PASS = "xviv5csnZmexnxpON4LL";
 
     private Connection conn;
 
