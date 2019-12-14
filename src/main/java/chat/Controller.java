@@ -14,7 +14,7 @@ import java.util.List;
  */
 public class Controller {
 
- /**   // @TODO: Sustituya xxxx por los parámetros de su conexión
+  // @TODO: Sustituya xxxx por los parámetros de su conexión
     private final String DB_SERVER = "bhcwv8kdmdkrydy512sa-mysql.services.clever-cloud.com";
     private final int DB_PORT = 3306;
     private final String DB_NAME = "bhcwv8kdmdkrydy512sa";
@@ -22,7 +22,9 @@ public class Controller {
     private final String DB_PASS = "xviv5csnZmexnxpON4LL";
 
     private Connection conn;
-*/
+
+
+ /**
     private final String DB_SERVER = "localhost";
     private final int DB_PORT = 3306;
     private final String DB_NAME = "chat";
@@ -30,7 +32,7 @@ public class Controller {
     private final String DB_PASS = "xve$8520";
 
     private Connection conn;
-
+*/
     /**
      * Conexion para BD en docker
      */
